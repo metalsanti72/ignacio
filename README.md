@@ -1,6 +1,6 @@
 
 # ignacio.github.io
-###  WEB DE SANTIAGO GUARDIOLA1
+###  WEB DE SANTIAGO GUARDIOLA
 ---
 ##### Hola, mi nombre es Santiago, y os doy al bienvenida a mi web. Podréis encontrar *algo mágico* aquí mismo. Tengo 52 años, vivo en Cieza y trabajo en Molina de Segura desde hace 21 años. Estoy casado y soy padre de dos hijos. Un niño de 16 años y una niña de 10 años. Me gusta el deporte (sobre todo verlo😂), la música (***Rock'n'roll***) y los videojuegos. Siempre me ha gustado todo lo relacionado con la informatica, desde los años 80 cuando descubrí el ***Amstrad CPC***.
 ---
